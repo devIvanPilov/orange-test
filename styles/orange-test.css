@@ -1,0 +1,11 @@
+.col-md-4{
+  margin: .5%;
+  width: 31%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  padding: 10;
+  border: 2px solid;
+}
